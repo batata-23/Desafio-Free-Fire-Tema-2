@@ -1,10 +1,3 @@
-# Survival Mini-Game - Projeto em C (Estruturas e Algoritmos)
-
-Este projeto é um mini-game educacional em C inspirado em modos de sobrevivência (estilo Free Fire).
-Foco: listas estáticas e dinâmicas, listas encadeadas, operações de inserção/remoção/busca,
-comparação entre vetor e lista encadeada, busca binária (iterativa e recursiva) e algoritmos de ordenação
-(com contagem de comparações para análise de eficiência).
-
 ## Estrutura do repositório
 ```
 /SurvivalProject
